@@ -13,6 +13,7 @@ export default function EditorHeader({ onReset, onDownload, onUpload }) {
                     <div>
                         <h1 className="text-xl font-bold text-gray-900">HTML Editor</h1>
                         <p className="text-sm text-gray-500">Live preview editor</p>
+                        <span>Developed by <a href="https://builderslab.net" style={{ color: "blue" }}>builderslab.net</a> </span>
                     </div>
                 </div>
 
